@@ -50,5 +50,4 @@ combinedData <- dcast(combinedMelt, subject + activity ~ variable, mean)
 
 write.table(combinedData, "combinedData.txt", sep="\t")
 
-##need to and write up readme and codebook, then upload it all ##to github
 
