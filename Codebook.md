@@ -12,7 +12,8 @@ activity
         
 subject
      UNIQUE IDENTIFIER FOR EACH PARTICIPANT IN STUDY
-        1...30
+     1...30
+     
         
 79 variables of the form t...meanX, f...meanX, t...stdX (for list of full variable/column names see below)
         
